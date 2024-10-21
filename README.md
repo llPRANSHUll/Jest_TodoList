@@ -33,8 +33,35 @@ npm install
 
 # Start the development server
 npm start
+```
 
+## 🧪 Running Tests
 
+```bash
+npm test
+```
 
+## 🗂️ Project Structure
 
+The structure of the project is outlined below to help you navigate the files and make changes:
 
+```bash
+task-management-dashboard/
+│
+├── public/                  # Public assets like HTML file and icons
+├── src/
+│   ├── App.js               # Main app component
+│   ├── App.css              # Global styles
+│   ├── TaskManager.js       # Task manager component
+│   ├── TaskManager.css      # Styles for the Task Manager component
+│   ├── TaskManager.test.js  # Unit tests for the Task Manager
+│
+├── package.json             # Project dependencies and scripts
+└── README.md                # Documentation
+```
+
+## 📫 Contact
+
+Email - chugh3@uwindsor.ca
+
+Thank you for exploring the Task Management Dashboard! Feel free to reach out with any questions or suggestions you might have.
